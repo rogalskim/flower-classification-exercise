@@ -8,6 +8,7 @@ Created by Maria-Elena Nilsback and Andrew Zisserman.
 # Dependencies
 - Python 3.8
 - PyTorch
+- Torchvision
 - Cuda 11
 
 Full Anaconda environment specification available in the [environment.yaml](environment.yaml) file.
