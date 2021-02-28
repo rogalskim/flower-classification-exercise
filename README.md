@@ -9,3 +9,5 @@ Created by Maria-Elena Nilsback and Andrew Zisserman.
 - Python 3.8
 - PyTorch
 - Cuda 11
+
+Full Anaconda environment specification available in the [environment.yaml](environment.yaml) file.
